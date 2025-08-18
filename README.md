@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+### I am an AI/ML Engineering student passionate about building intelligent systems. Exploring machine learning, deep learning, and data-driven solutions.
+
+
 🔭 I’m currently working on FarmGenius<br>🌱 I’m currently learning Data Science<br>
 
 
